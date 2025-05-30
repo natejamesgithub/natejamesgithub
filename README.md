@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Nathan James 👋
 
-<!--
-**natejamesgithub/natejamesgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Finance student @ University of Maryland, College Park**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Working On
+- Building out a **fintech project portfolio** with 10+ practical apps planned for Summer 2025  
+
+---
+
+## 📚 What I’m Currently Learning
+- Exploring **finance models and data analytics** to bridge tech + business
+
+---
+
+## 📂 Project Repositories
+
+- **Personal Projects:** [personal-projects](https://github.com/yourusername/personal-projects)  
+  A collection of my self-initiated coding projects, apps, and open source contributions to showcase my skills outside of coursework.
+
+- **Academic Projects:** [class-projects](https://github.com/natejamesgithub/umd-course-projects)  
+  Polished and private-school-compliant summaries and demos of my university coursework projects. Reach out for deeper access!
+
+---
+
+## 📫 How to Reach Me
+- **Email:** natejamesnetwork@gmail.com
+- **LinkedIn:** [linkedin.com/in/natejames2027](www.linkedin.com/in/natejames2027)  
+
+---
+
+Thanks for stopping by my GitHub — let’s build cool stuff together! 🚀
+
+---
+
+*Last updated: May 2025*
