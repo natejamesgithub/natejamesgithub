@@ -1,4 +1,4 @@
-# Hey, I'm Nathan James 👋
+# Hey, I'm Nate 👋
 
 **Computer Science & Finance student @ University of Maryland, College Park**  
 
@@ -11,6 +11,7 @@
 
 ## 📚 What I’m Currently Learning
 - Exploring **finance models and data analytics** to bridge tech + business
+- (Also German... Guten Tag!) 
 
 ---
 
