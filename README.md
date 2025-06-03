@@ -10,6 +10,7 @@
 ---
 
 ## 📚 What I’m Currently Learning
+- Automated Stock Portfolio Rebalancer
 - Exploring **finance models and data analytics** to bridge tech + business
 - (Also German... Guten Tag!) 
 
