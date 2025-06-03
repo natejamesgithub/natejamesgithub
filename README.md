@@ -18,7 +18,7 @@
 
 ## 📂 Project Repositories
 
-- **Personal Projects:** [personal-projects](https://github.com/yourusername/personal-projects)  
+- **Personal Projects:** [personal-projects](https://github.com/natejamesgithub/nathan-james-personal-projects)
   A collection of my self-initiated coding projects, apps, and open source contributions to showcase my skills outside of coursework.
 
 - **Academic Projects:** [class-projects](https://github.com/natejamesgithub/umd-course-projects)  
