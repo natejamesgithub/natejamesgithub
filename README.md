@@ -10,7 +10,7 @@
 ---
 
 ## 📚 What I’m Currently Learning
-- Real-time Crypto Dashboard
+- Expense Splitting + Reimbursement Tracker
 - Exploring **finance models and data analytics** to bridge tech + business
 - (Also German... Guten Tag!) 
 
