@@ -5,12 +5,12 @@
 ---
 
 ## 🚀 What I’m Working On
-- Building out a **fintech project portfolio** with 10+ practical apps planned for Summer 2025  
+- Building out a **fintech project portfolio**
 
 ---
 
 ## 📚 What I’m Currently Learning
-- Expense Splitting + Reimbursement Tracker
+- Golang!
 - Exploring **finance models and data analytics** to bridge tech + business
 - (Also German... Guten Tag!) 
 
