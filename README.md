@@ -1,6 +1,6 @@
 # Hey, I'm Nate 👋
 
-**Computer Science & Finance student @ University of Maryland, College Park**  
+**Computer Science & Finance dual-degree candidate @ University of Maryland, College Park**  
 
 ---
 
