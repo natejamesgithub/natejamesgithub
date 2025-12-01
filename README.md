@@ -4,19 +4,19 @@
 
 ---
 
-## 🚀 What I’m Working On
+## What I’m Working On
 - Building out a **fintech project portfolio**
 
 ---
 
-## 📚 What I’m Currently Learning
+## What I’m Currently Learning
 - Golang!
 - Exploring **finance models and data analytics** to bridge tech + business
 - (Also German... Guten Tag!) 
 
 ---
 
-## 📂 Project Repositories
+## Project Repositories
 
 - **Personal Projects:** [personal-projects](https://github.com/natejamesgithub/nathan-james-personal-projects)
   A collection of my self-initiated coding projects, apps, and open source contributions to showcase my skills outside of coursework.
@@ -26,7 +26,7 @@
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 - **Email:** natejamesnetwork@gmail.com
 - **LinkedIn:** [linkedin.com/in/natejames2027](www.linkedin.com/in/natejames2027)  
 
