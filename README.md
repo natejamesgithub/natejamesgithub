@@ -1,4 +1,4 @@
-# Hey, I'm Nate 👋
+# Nathan James
 
 **Computer Science & Finance dual-degree candidate @ University of Maryland, College Park**  
 
