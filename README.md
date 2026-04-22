@@ -5,12 +5,11 @@
 ---
 
 ## What I’m Working On
-- Building out a **fintech project portfolio**
+- LGBTQ+ Digital Archive for the DMV
 
 ---
 
 ## What I’m Currently Learning
-- Golang!
 - Exploring **finance models and data analytics** to bridge tech + business
 - (Also German... Guten Tag!) 
 
